@@ -13,6 +13,6 @@ Invent your own computer games with Python - exercises.
 
 This repository contains TODO programming tasks, given in every chapter of the book. The purpose of the repository is to practice Python programming language, with git version control, markdown syntax etc.
 
-* **CHAPTER 3** - [Guess the number.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_3)
+* **CHAPTER 3** - [Guess the number.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_3/guess.py)
 
-* **CHAPTER 4** - [A Joke-telling program.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_4)
+* **CHAPTER 4** - [A Joke-telling program.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_4/jokes.py)
