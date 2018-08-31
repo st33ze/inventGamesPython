@@ -16,3 +16,7 @@ This repository contains TODO programming tasks, given in every chapter of the b
 * **CHAPTER 3** - [Guess the number.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_3/guess.py)
 
 * **CHAPTER 4** - [A Joke-telling program.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_4/jokes.py)
+
+* **CHAPTER 5** - [Dragon Realm.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_5/dragon.py)
+
+* **CHAPTER 8** - [Hangman.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_8)
