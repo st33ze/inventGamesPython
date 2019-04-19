@@ -20,3 +20,5 @@ This repository contains TODO programming tasks, given in every chapter of the b
 * **CHAPTER 5** - [Dragon Realm.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_5/dragon.py)
 
 * **CHAPTER 8** - [Hangman.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_8)
+
+* **CHAPTER 10** - [Tic Tac Toe.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_10)
