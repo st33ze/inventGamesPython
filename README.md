@@ -22,3 +22,5 @@ This repository contains TODO programming tasks, given in every chapter of the b
 * **CHAPTER 8** - [Hangman.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_08)
 
 * **CHAPTER 10** - [Tic Tac Toe.](https://github.com/st33ze/inventGamesPython/tree/master/chapter_10)
+
+* **CHAPTER 11** - [Bagels](https://github.com/st33ze/inventGamesPython/tree/master/chapter_11/bagels.py)
